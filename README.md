@@ -17,5 +17,5 @@ Este proyecto analiza un conjunto de datos con **100,000 mediciones simuladas** 
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone <URL_DE_TU_REPOSITORIO_GITHUB>
+   git clone https://github.com/Chavez-Josue/EC.-Practico.git
    cd EC_Practico
